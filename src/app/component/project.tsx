@@ -18,8 +18,10 @@ const Project = () => {
         <div className="flex relative">
           <Image
             alt="gallery"
+            width={720}
+            height={600}
             className="absolute inset-0 w-full h-full object-cover object-center"
-            src='../../../public/pro0.png'
+            src='/pro0.png'
           />
           <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 className="tracking-widest text-sm title-font font-medium text-blue-500 mb-1">
@@ -43,8 +45,10 @@ const Project = () => {
         <div className="flex relative">
           <Image
             alt="gallery"
+            width={720}
+            height={600}
             className="absolute inset-0 w-full h-full object-cover object-center"
-            src='../../../public/pro3.png'
+            src='/pro3.png'
           />
           <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 className="tracking-widest text-sm title-font font-medium text-blue-500 mb-1">
@@ -68,8 +72,10 @@ const Project = () => {
         <div className="flex relative">
           <Image
             alt="gallery"
+            width={720}
+            height={600}
             className="absolute inset-0 w-full h-full object-cover object-center"
-            src='../../../public/pro1.png'
+            src='/pro1.png'
           />
           <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             <h2 className="tracking-widest text-sm title-font font-medium text-blue-500 mb-1">

@@ -37,7 +37,7 @@ const Hero = () => {
         alt="hero"
         width={720}
         height={600}
-        src="../../../public/home.jpg"
+        src="/home.jpg"
         />
     </div>
   </div>

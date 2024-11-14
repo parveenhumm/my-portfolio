@@ -10,7 +10,7 @@ const About = () => {
       <Image
         className="object-cover object-center rounded mx-auto w-[400px] h-[350px]"
         alt="hero"
-        src="../../../public/home.jpg"
+        src="/home.jpg"
         width={300}
         height={500}
       />
